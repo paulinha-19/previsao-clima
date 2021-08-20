@@ -1,5 +1,5 @@
-# Previsao clima-vento
+# Desafio 7 Projetos em 7 dias fornecido pela B7Web
+## Edição: Javascript
 
-## Desenvolvido através do Desafio 7 Projetos em 7 Dias Edição: Javascript, por b7web.
 
 
